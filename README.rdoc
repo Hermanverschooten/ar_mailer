@@ -46,6 +46,9 @@ For Rails 2.0, in an initializer file:
 
   require 'action_mailer/ar_mailer'
 
+For Rails > 3.0, use bundler
+  gem 'adzap-ar_mailer'
+
 == Usage
 
 Go to your Rails project:
